@@ -23,7 +23,7 @@
             "run_at": "document_end"
         },
         {
-            "matches": ["https://neverdecaf.github.io/discord-PWA/*"],
+            "matches": ["https://discord-pwa.lewd.tech/discord-PWA/*"],
             "js": ["customTheme.js"],
             "all_frames": false,
             "run_at": "document_end"
@@ -48,7 +48,7 @@
     ],
     "host_permissions": [
         "https://discord.com/*",
-        "https://neverdecaf.github.io/*"
+        "https://discord-pwa.lewd.tech/*"
     ],
 
     "update_url": "https://raw.githubusercontent.com/NeverDecaf/discord-PWA/master/updates.xml",
@@ -66,7 +66,7 @@
             ],
             "matches": [
                 "https://discord.com/*",
-                "https://neverdecaf.github.io/*"
+                "https://discord-pwa.lewd.tech/*"
             ]
         }
     ]
